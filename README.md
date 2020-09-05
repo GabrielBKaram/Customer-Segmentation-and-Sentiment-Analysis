@@ -1,1 +1,1 @@
-# Ecommerce-Customer-Segementation-and-Sentiment-Analysis
+# Customer-Segmentation-and-Sentiment-Analysis
